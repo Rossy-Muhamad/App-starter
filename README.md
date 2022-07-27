@@ -2,4 +2,6 @@
 
 Run npm
 ---
-npm install
+-  ```console  
+   npm install
+    ```
