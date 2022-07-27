@@ -2,10 +2,10 @@
 
 Run npm
 ---
--  ```console  
+```console  
    npm install
     ```
 ###### Next
--  ```console  
+```console  
    npm start
     ```
